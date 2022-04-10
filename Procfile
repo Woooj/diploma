@@ -1,1 +1,1 @@
-web: java -jar target/ecommerce-1.0.jar
+web: java $JAVA_OPTS -jar target/ecommerce-1.0.war
