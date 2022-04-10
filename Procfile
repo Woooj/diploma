@@ -1,1 +1,1 @@
-web: java -jar target/marketplace-1.0.jar
+web: java -jar target/ecommerce-1.0.jar
